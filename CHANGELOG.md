@@ -24,3 +24,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Added LICENSE.txt
 - Added repository
+- Update README.md
