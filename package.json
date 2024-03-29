@@ -1,0 +1,23 @@
+{
+  "name": "ashtray-vibrant",
+  "displayName": "Ashtray Vibrant",
+  "description": "Dark theme with red, grey, OLED black + vibrant syntax highlighting.",
+  "version": "0.0.3",
+  "publisher": "C2K",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ashtray Vibrant",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ashtray Vibrant-color-theme.json"
+      }
+    ]
+  }
+}
